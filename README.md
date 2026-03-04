@@ -71,7 +71,7 @@ RISC-V processors are widely used in:
 Below is the architecture of the designed **Single Cycle RISC-V Processor**.
 
 <p align="center">
-<img src="Images/riscv-processor-architecture.png" width="650">
+<img src="Images/RISC-V Processor Architecture.png" width="650">
 </p>
 
 The processor contains the following main modules:
