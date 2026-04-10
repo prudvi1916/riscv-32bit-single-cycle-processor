@@ -1,4 +1,4 @@
-# 🚀 32-Bit Single Cycle RISC-V Processor (Verilog)9677
+# 🚀 32-Bit Single Cycle RISC-V Processor (Verilog)2333
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![Simulation](https://img.shields.io/badge/Simulator-Icarus%20Verilog-green)
